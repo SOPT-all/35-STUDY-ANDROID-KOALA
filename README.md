@@ -1,5 +1,7 @@
 # 35-STUDY-ANDROID-KOALA
 
+![177600707](https://github.com/user-attachments/assets/9e2fa459-bacc-4230-9e35-cced3c459990)
+
 ## 1주차 (~10월 25일)
 ### [프로그래머스]
 Lv1 : https://school.programmers.co.kr/learn/courses/30/lessons/81301
