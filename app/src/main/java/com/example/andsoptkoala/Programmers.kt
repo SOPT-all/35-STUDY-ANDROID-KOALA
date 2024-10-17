@@ -1,6 +1,6 @@
 package com.example.andsoptkoala
 
-class Solution {
+class Solution1 {
     fun solution(s: String): Int {
         var answer: Int = 0
         var answerString = s.replace(oldValue = "zero", newValue = "0")
@@ -19,4 +19,25 @@ class Solution {
 }
 
 
+class Solution2 {
+    fun solution(s: String): IntArray {
+        var answer = intArrayOf()
+        val numbers = s.replace("{", "").replace("}", "")
+            .split(",")
+            .filter { it.isNotEmpty() }
+            .map { it.toInt() }
 
+        val map = mutableMapOf<Int, Int>()
+        for (num in numbers) {
+            map[num] = map.getOrDefault(num, 0) + 1
+        }
+
+        val sortedTuple= map.toList()
+            .sortedByDescending { it.second }
+            .map { it.first }
+
+        answer = sortedTuple.toIntArray()
+
+        return answer
+    }
+}
