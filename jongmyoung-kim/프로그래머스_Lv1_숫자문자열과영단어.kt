@@ -1,11 +1,9 @@
-class Solution {
-    fun solution(s: String): Int {
-        var result = s
-        enumValues<Numbers>().forEach {
-            result = result.replace(it.engNum, it.num)
-        }
-        return result.toInt()
+fun engToNum(s: String): Int {
+    var result = s
+    enumValues<Numbers>().forEach {
+        result = result.replace(it.engNum, it.num)
     }
+    return result.toInt()
 }
 enum class Numbers(
     val engNum: String,
