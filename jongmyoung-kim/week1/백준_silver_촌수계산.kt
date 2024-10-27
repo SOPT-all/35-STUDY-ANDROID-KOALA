@@ -1,3 +1,5 @@
+package week1
+
 val visited = BooleanArray(101) { false }
 var relationCount = -1
 

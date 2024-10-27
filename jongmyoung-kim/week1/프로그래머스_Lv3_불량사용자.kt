@@ -1,3 +1,5 @@
+package week1
+
 fun badUser(user_id: Array<String>, banned_id: Array<String>): Int {
     val overlap_id = Array(banned_id.size) { mutableListOf<String>() }
 

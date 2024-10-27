@@ -1,3 +1,5 @@
+package week1
+
 private val br = System.`in`.bufferedReader()
 var cleanCount = 0
 val directions = arrayOf( // starting from N -> E -> S -> W

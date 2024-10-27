@@ -1,3 +1,5 @@
+package week1
+
 fun engToNum(s: String): Int {
     var result = s
     enumValues<Numbers>().forEach {
