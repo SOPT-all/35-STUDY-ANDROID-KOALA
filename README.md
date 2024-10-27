@@ -19,7 +19,7 @@
 4. 커밋은 `[n주차] 플랫폼_레벨_문제_이름`의 컨벤션을 따른다.
 <br>
 
-### Week 01 (~24.10.16)
+### Week 01 (~24.10.25)
 
 | 난이도               | 카테고리                    | 제목             | 문제 풀이 링크|
 |--------------------|---------------------------|-----------------|---------|
@@ -28,3 +28,13 @@
 | Lv.3   | 2019 카카오 개발자 겨울 인턴십 | [프로그래머스: 불량 사용자]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/64064">🔗<a/>) |
 | Sliver |  | [백준: 촌수계산]  | (<a href = "https://www.acmicpc.net/problem/2644">🔗<a/>) |
 | Gold   |  | [백준: 로봇 청소기]  | (<a href = "https://www.acmicpc.net/problem/14503">🔗<a/>) |
+
+### Week 02 (~24.11.01)
+
+| 난이도               | 카테고리                    | 제목             | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 실패율]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42889">🔗<a/>) |
+| Lv.2   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: k 진수에서 소수 개수 구하기]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92335">🔗<a/>) |
+| Lv.3   | 2020 카카오 인턴십 | [프로그래머스: 보석 쇼핑]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67258">🔗<a/>) |
+| Sliver |  | [백준: 스타트링크]  | (<a href = "https://www.acmicpc.net/problem/5014">🔗<a/>) |
+| Gold   |  | [백준: 맥주 마시면서 걸어가기]  | (<a href = "https://www.acmicpc.net/problem/9205">🔗<a/>) |
