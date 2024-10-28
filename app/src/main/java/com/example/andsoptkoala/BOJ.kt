@@ -22,6 +22,7 @@ fun main() {
 
     // 스트림 닫기
     bw.close()
-    br.close()
+//    br.close() 안해줘도 된다고하네요
 }
+
 
