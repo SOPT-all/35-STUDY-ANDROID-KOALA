@@ -54,6 +54,7 @@ fun main(args: Array<String>){
             currentColumn += direction[(currentDirection+2)%4].second
         }
     }
+
     bw.write(answer.toString())
     bw.close()
 }
