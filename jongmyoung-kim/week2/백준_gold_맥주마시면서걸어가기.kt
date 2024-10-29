@@ -31,9 +31,10 @@ fun bfs(marketNum: Int, coordinates: ArrayList<Pair<Int, Int>>): String {
 
     while (queue.isNotEmpty()) {
         val current = queue.poll()
+
         if (current == marketNum + 1) return "happy"
 
-        for (next in 1..marketNum+1) {
+        for (next in 1..marketNum + 1) {
             val distance =
                 abs(coordinates[current].first - coordinates[next].first) + abs(coordinates[current].second - coordinates[next].second)
             if (distance <= 1000 && !visited[next]) {

@@ -7,19 +7,23 @@ private val br = System.`in`.bufferedReader()
 fun main() = with(System.out.bufferedWriter()) {
     val (f, s, g, u, d) = br.readLine().split(" ").map { it.toInt() }
 
-    val queue = LinkedList<Pair<Int, Int>>()
-    val visited = BooleanArray(f + 1) { false }
+    write(bfs(f, s, g, u, d))
+    close()
+}
 
+fun bfs(f: Int, s: Int, g: Int, u: Int, d: Int): String {
+    val queue = LinkedList<Pair<Int, Int>>()
     queue.add(Pair(s, 0))
-    visited[s] = true
+
+    val visited = BooleanArray(f + 1) { false }.apply {
+        this[s] = true
+    }
 
     while (queue.isNotEmpty()) {
         val (cf, cd) = queue.poll()
 
         if (cf == g) {
-            write(cd.toString())
-            close()
-            return
+            return cd.toString()
         }
 
         val uf = cf + u
@@ -35,6 +39,5 @@ fun main() = with(System.out.bufferedWriter()) {
             queue.add(Pair(df, cd + 1))
         }
     }
-    write("use the stairs")
-    close()
+    return "use the stairs"
 }
