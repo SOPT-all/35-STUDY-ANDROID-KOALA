@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="[1주차] 백준_Gold_로봇청소기_김재민" />
+    <list default="true" id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="[2주차] 프로그래머스_Lv1_실패율_김재민">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
     &quot;git-widget-placeholder&quot;: &quot;week2__jaemin-kim&quot;,
     &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Android/Kotlin/35-STUDY-ANDROID-KOALA/jaemin/week1&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Android/Kotlin/35-STUDY-ANDROID-KOALA/jaemin/week2&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -47,6 +49,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Android\Kotlin\35-STUDY-ANDROID-KOALA\jaemin\week2" />
       <recent name="C:\Program Files\Android\Kotlin\35-STUDY-ANDROID-KOALA\jaemin\week1" />
     </key>
   </component>
@@ -78,7 +81,7 @@
       <workItem from="1729568215150" duration="2704000" />
       <workItem from="1729858597212" duration="2298000" />
       <workItem from="1730106890183" duration="709000" />
-      <workItem from="1730161023714" duration="3875000" />
+      <workItem from="1730161023714" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="[1주차] 프로그래머스_Lv1_숫자문자열과영단어_김재민">
       <option name="closed" value="true" />
@@ -128,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730161079791</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[2주차] 프로그래머스_Lv1_실패율_김재민">
+      <option name="closed" value="true" />
+      <created>1730359716694</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1730359716694</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -140,6 +151,7 @@
     <MESSAGE value="[1주차] 프로그래머스_Lv2_튜플_김재민" />
     <MESSAGE value="[1주차] 프로그래머스_Lv3_불량사용자_김재민" />
     <MESSAGE value="[1주차] 백준_Gold_로봇청소기_김재민" />
-    <option name="LAST_COMMIT_MESSAGE" value="[1주차] 백준_Gold_로봇청소기_김재민" />
+    <MESSAGE value="[2주차] 프로그래머스_Lv1_실패율_김재민" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2주차] 프로그래머스_Lv1_실패율_김재민" />
   </component>
 </project>

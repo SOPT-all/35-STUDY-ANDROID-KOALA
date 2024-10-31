@@ -17,7 +17,7 @@ fun solution(N: Int, stages: IntArray): IntArray {  // 사용자 수 범위 : 1~
     }
 
     for(i in 1 ..N){
-        if(numberOfUsers==0) countCurrentStage[i] = 0.0
+        if(numberOfUsers==0) countCurrentStage[i] = 0.0 // 0으로 나누는 실수 금지 ㅠ
         else{
             val currentStage = countCurrentStage[i]
             countCurrentStage[i] = (countCurrentStage[i]?:0).toDouble() / numberOfUsers
