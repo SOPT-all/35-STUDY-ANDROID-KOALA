@@ -7,13 +7,9 @@ fun solution(n: Int, k: Int): Int {
     val st = StringTokenizer(toBaseK,"0")
     val numbersWithNoZero = st.toList()
 
-    val primeNumbers = numbersWithNoZero.filter{ isPrimeString(it.toString()) }
+    val primeNumbers = numbersWithNoZero.count { isPrimeString(it.toString()) }
 
-    print(toBaseK)
-    print(numbersWithNoZero)
-    print(primeNumbers)
-
-    var answer: Int = primeNumbers.size
+    val answer: Int = primeNumbers
     return answer
 }
 
