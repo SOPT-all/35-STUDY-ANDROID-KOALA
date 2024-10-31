@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="[1주차] 백준_Gold_로봇청소기_김재민" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2nb6WFfXtFnAzjiWfFaATmWn3yv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.프로그래머스_Lv1_숫자문자열과영단어_김재민Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;week2__jaemin-kim&quot;,
+    &quot;ignore_missing_gitignore&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Program Files/Android/Kotlin/35-STUDY-ANDROID-KOALA/jaemin/week1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Program Files\Android\Kotlin\35-STUDY-ANDROID-KOALA\jaemin\week1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <module name="35-STUDY-ANDROID-KOALA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="" />
+      <created>1729229457188</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729229457188</updated>
+      <workItem from="1729229458733" duration="11998000" />
+      <workItem from="1729568215150" duration="2704000" />
+      <workItem from="1729858597212" duration="2298000" />
+      <workItem from="1730106890183" duration="709000" />
+      <workItem from="1730161023714" duration="3875000" />
+    </task>
+    <task id="LOCAL-00001" summary="[1주차] 프로그래머스_Lv1_숫자문자열과영단어_김재민">
+      <option name="closed" value="true" />
+      <created>1729234463042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729234463042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="[1주차] 백준_Silver_촌수계산_김재민">
+      <option name="closed" value="true" />
+      <created>1729247434773</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1729247434773</updated>
+    </task>
+    <task id="LOCAL-00003" summary="[1주차] 프로그래머스_Lv2_튜플_김재민">
+      <option name="closed" value="true" />
+      <created>1729253586635</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1729253586635</updated>
+    </task>
+    <task id="LOCAL-00004" summary="[1주차] 프로그래머스_Lv3_불량사용자_김재민">
+      <option name="closed" value="true" />
+      <created>1729260757717</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729260757717</updated>
+    </task>
+    <task id="LOCAL-00005" summary="[1주차] 백준_Gold_로봇청소기_김재민">
+      <option name="closed" value="true" />
+      <created>1729577467065</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1729577467065</updated>
+    </task>
+    <task id="LOCAL-00006" summary="[1주차] 백준_Gold_로봇청소기_김재민">
+      <option name="closed" value="true" />
+      <created>1730161079791</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1730161079791</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[1주차] 프로그래머스_Lv1_숫자문자열과영단어_김재민" />
+    <MESSAGE value="[1주차] 백준_Silver_촌수계산_김재민" />
+    <MESSAGE value="[1주차] 프로그래머스_Lv2_튜플_김재민" />
+    <MESSAGE value="[1주차] 프로그래머스_Lv3_불량사용자_김재민" />
+    <MESSAGE value="[1주차] 백준_Gold_로봇청소기_김재민" />
+    <option name="LAST_COMMIT_MESSAGE" value="[1주차] 백준_Gold_로봇청소기_김재민" />
+  </component>
+</project>
