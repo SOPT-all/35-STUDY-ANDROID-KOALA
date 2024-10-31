@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="[2주차] 프로그래머스_Lv1_실패율_김재민">
+    <list default="true" id="3ddbc640-7338-4fa3-b49f-4eca30e84d59" name="Changes" comment="[2주차] 프로그래머스_Lv2_k진수에서소수개수구하기_김재민">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,7 @@
       <workItem from="1729568215150" duration="2704000" />
       <workItem from="1729858597212" duration="2298000" />
       <workItem from="1730106890183" duration="709000" />
-      <workItem from="1730161023714" duration="4760000" />
+      <workItem from="1730161023714" duration="5624000" />
     </task>
     <task id="LOCAL-00001" summary="[1주차] 프로그래머스_Lv1_숫자문자열과영단어_김재민">
       <option name="closed" value="true" />
@@ -139,7 +139,23 @@
       <option name="project" value="LOCAL" />
       <updated>1730359716694</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[2주차] 프로그래머스_Lv2_k진수에서소수개수구하기_김재민">
+      <option name="closed" value="true" />
+      <created>1730361505962</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1730361505963</updated>
+    </task>
+    <task id="LOCAL-00009" summary="[2주차] 프로그래머스_Lv2_k진수에서소수개수구하기_김재민">
+      <option name="closed" value="true" />
+      <created>1730361702503</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1730361702503</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +168,7 @@
     <MESSAGE value="[1주차] 프로그래머스_Lv3_불량사용자_김재민" />
     <MESSAGE value="[1주차] 백준_Gold_로봇청소기_김재민" />
     <MESSAGE value="[2주차] 프로그래머스_Lv1_실패율_김재민" />
-    <option name="LAST_COMMIT_MESSAGE" value="[2주차] 프로그래머스_Lv1_실패율_김재민" />
+    <MESSAGE value="[2주차] 프로그래머스_Lv2_k진수에서소수개수구하기_김재민" />
+    <option name="LAST_COMMIT_MESSAGE" value="[2주차] 프로그래머스_Lv2_k진수에서소수개수구하기_김재민" />
   </component>
 </project>
