@@ -38,3 +38,13 @@
 | Lv.3   | 2020 카카오 인턴십 | [프로그래머스: 보석 쇼핑]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67258">🔗<a/>) |
 | Sliver |  | [백준: 스타트링크]  | (<a href = "https://www.acmicpc.net/problem/5014">🔗<a/>) |
 | Gold   |  | [백준: 맥주 마시면서 걸어가기]  | (<a href = "https://www.acmicpc.net/problem/9205">🔗<a/>) |
+
+### Week 03 (~24.11.08)
+
+| 난이도               | 카테고리                    | 제목             | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1   | 2019 카카오 개발자 겨울 인턴십 | [프로그래머스: 크레인 인형뽑기 게임]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/64061">🔗<a/>) |
+| Lv.2   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 주차 요금 계산]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92341">🔗<a/>) |
+| Lv.3   | 2019 카카오 개발자 겨울 인턴십 | [프로그래머스: 징검다리 건너기]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/64062">🔗<a/>) |
+| Sliver |  | [백준: 안전 영역]  | (<a href = "https://www.acmicpc.net/problem/2468">🔗<a/>) |
+| Gold   |  | [백준: 동전 2]  | (<a href = "https://www.acmicpc.net/problem/2294">🔗<a/>) |
