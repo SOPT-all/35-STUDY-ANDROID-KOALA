@@ -1,11 +1,9 @@
 package week1
 
-
 import java.io.BufferedReader
 import java.io.BufferedWriter
 import java.io.InputStreamReader
 import java.io.OutputStreamWriter
-
 
 fun main() {
     // 입력
@@ -16,7 +14,6 @@ fun main() {
     var cnt = 0
 
     var (F, S, G, U, D) = br.readLine().split(' ').map { it.toInt() }
-
 
     while (true){
         if ( cnt>F ){
