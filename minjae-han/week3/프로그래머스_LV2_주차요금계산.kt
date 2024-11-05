@@ -1,43 +1,22 @@
 class Solution {
-    fun solution(fees: IntArray, records: Array<String>): IntArray {
-        val inTimes = mutableMapOf<String, Int>()
-        val totalMinutes = mutableMapOf<String, Int>()
-        
-        for (record in records) {
-            val time = record.substring(0, 5)
-            val car = record.substring(6, 10)
-            val isIn = record[11] == 'I'
-            
-            val minutes = (time[0] - '0') * 600 + 
-                         (time[1] - '0') * 60 + 
-                         (time[3] - '0') * 10 + 
-                         (time[4] - '0')
-            
-            if (isIn) {
-                inTimes[car] = minutes
-            } else {
-                val parkingTime = minutes - (inTimes.remove(car) ?: 0)
-                totalMinutes[car] = (totalMinutes[car] ?: 0) + parkingTime
+    fun solution(fees: IntArray, records: Array<String>) = records
+        .map { it.split(" ") }
+        .groupBy { it[1] } 
+        .map { (car, list) -> 
+            car to list.chunked(2).sumOf { record ->
+                val time = record.getOrNull(1)?.get(0)?.let { out ->
+                    getMinutes(out) - getMinutes(record[0][0])
+                } ?: (1439 - getMinutes(record[0][0]))
+                time
             }
         }
-        
-        inTimes.forEach { (car, inTime) ->
-            val parkingTime = 1439 - inTime
-            totalMinutes[car] = (totalMinutes[car] ?: 0) + parkingTime
+        .sortedBy { it.first }  
+        .map { (_, time) -> 
+            if (time <= fees[0]) fees[1]
+            else fees[1] + ((time - fees[0] + fees[2] - 1) / fees[2]) * fees[3]
         }
-        
-        val (basicTime, basicFee, unitTime, unitFee) = fees
-        
-        return totalMinutes.entries
-            .sortedBy { it.key }
-            .map { (_, minutes) -> 
-                if (minutes <= basicTime) basicFee
-                else {
-                    val extraTime = minutes - basicTime
-                    val extraUnits = (extraTime + unitTime - 1) / unitTime
-                    basicFee + extraUnits * unitFee
-                }
-            }
-            .toIntArray()
-    }
+        .toIntArray()
+
+    private fun getMinutes(time: String) = 
+        time.split(":").let { it[0].toInt() * 60 + it[1].toInt() }
 }
