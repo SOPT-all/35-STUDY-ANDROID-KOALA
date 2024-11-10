@@ -48,3 +48,13 @@
 | Lv.3   | 2019 카카오 개발자 겨울 인턴십 | [프로그래머스: 징검다리 건너기]  | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/64062">🔗<a/>) |
 | Sliver |  | [백준: 안전 영역]  | (<a href = "https://www.acmicpc.net/problem/2468">🔗<a/>) |
 | Gold   |  | [백준: 동전 2]  | (<a href = "https://www.acmicpc.net/problem/2294">🔗<a/>) |
+
+### Week 04 (~24.11.15)
+
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1   | 2020 카카오 인턴십 | [프로그래머스: 키패드 누르기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67256">🔗<a/>) |
+| Lv.2   | 2019 KAKAO BLIND RECRUITMENT | [프로그래머스: 오픈 채팅방] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42888">🔗<a/>) |
+| Lv.3   | 2020 카카오 인턴십 | [프로그래머스: 경주로 건설] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67259">🔗<a/>) |
+| Sliver |  | [백준: 동물원]       | (<a href = "https://www.acmicpc.net/problem/1309">🔗<a/>) |
+| Gold   |  | [백준: 수 고르기]     | (<a href = "https://www.acmicpc.net/problem/2230">🔗<a/>) |
