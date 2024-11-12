@@ -6,6 +6,7 @@ fun main() = with(System.out.bufferedWriter()) {
     val (N, M) = br.readLine().split(" ").map { it.toInt() }
     val sequence = ArrayList<Int>()
     repeat(N) { sequence.add(br.readLine().toInt()) }
+    sequence.sort()
 
     var start = 0
     var end = 0
