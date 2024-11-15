@@ -1,4 +1,4 @@
-package com.example.andsoptkoala
+package week4
 
 class Solution {
     fun solution(numbers: IntArray, hand: String): String {
