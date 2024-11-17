@@ -58,3 +58,13 @@
 | Lv.3   | 2020 카카오 인턴십 | [프로그래머스: 경주로 건설] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67259">🔗<a/>) |
 | Sliver |  | [백준: 동물원]       | (<a href = "https://www.acmicpc.net/problem/1309">🔗<a/>) |
 | Gold   |  | [백준: 수 고르기]     | (<a href = "https://www.acmicpc.net/problem/2230">🔗<a/>) |
+
+### Week 04 (~24.11.22)
+
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1   | 2022 KAKAO TECH INTERNSHIP | [프로그래머스: 성격 유형 검사하기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/118666">🔗<a/>) |
+| Lv.2   | 2022 KAKAO TECH INTERNSHIP | [프로그래머스: 두 큐 합 같게 만들기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/118667">🔗<a/>) |
+| Lv.3   | 2020 KAKAO BLIND RECRUITMENT | [프로그래머스: 자물쇠와 열쇠] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60059">🔗<a/>) |
+| Sliver |  | [백준: 한 줄로 서기]       | (<a href = "https://www.acmicpc.net/problem/1138">🔗<a/>) |
+| Gold   |  | [백준: 파티]     | (<a href = "https://www.acmicpc.net/problem/1238">🔗<a/>) |
