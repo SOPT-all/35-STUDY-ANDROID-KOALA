@@ -74,7 +74,7 @@
 | 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
 |--------------------|---------------------------|-----------------|---------|
 | Lv.1   | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 신규 아이디 추천] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72410">🔗<a/>) |
-| Lv.2   | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 메뉴 리뉴얼] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72411">🔗<a/>) |
+| Lv.2   | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 메뉴 리뉴얼] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72411">🔗<a/>) |
 | Lv.3   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 파괴되지 않은 건물] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92344">🔗<a/>) |
 | Sliver |  | [백준: 스티커] | (<a href = "https://www.acmicpc.net/problem/9465">🔗<a/>) |
 | Gold   |  | [백준: 1의 개수 세기]     | (<a href = "https://www.acmicpc.net/problem/9527">🔗<a/>) |
