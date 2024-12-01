@@ -59,7 +59,7 @@
 | Sliver |  | [백준: 동물원]       | (<a href = "https://www.acmicpc.net/problem/1309">🔗<a/>) |
 | Gold   |  | [백준: 수 고르기]     | (<a href = "https://www.acmicpc.net/problem/2230">🔗<a/>) |
 
-### Week 05 (~24.11.22)
+### Week 05 (~24.12.01)
 
 | 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
 |--------------------|---------------------------|-----------------|---------|
@@ -68,3 +68,13 @@
 | Lv.3   | 2020 KAKAO BLIND RECRUITMENT | [프로그래머스: 자물쇠와 열쇠] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60059">🔗<a/>) |
 | Sliver |  | [백준: 한 줄로 서기]       | (<a href = "https://www.acmicpc.net/problem/1138">🔗<a/>) |
 | Gold   |  | [백준: 파티]     | (<a href = "https://www.acmicpc.net/problem/1238">🔗<a/>) |
+
+### Week 06 (~24.12.06)
+
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1   | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 신규 아이디 추천] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72410">🔗<a/>) |
+| Lv.2   | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 메뉴 리뉴얼] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72411">🔗<a/>) |
+| Lv.3   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 파괴되지 않은 건물] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92344">🔗<a/>) |
+| Sliver |  | [백준: 스티커] | (<a href = "https://www.acmicpc.net/problem/9465">🔗<a/>) |
+| Gold   |  | [백준: 1의 개수 세기]     | (<a href = "https://www.acmicpc.net/problem/9527">🔗<a/>) |
