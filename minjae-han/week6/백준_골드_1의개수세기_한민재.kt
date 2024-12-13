@@ -11,6 +11,6 @@ fun main() {
         return r
     }
 
-    val (a, b) = readLine()!!.split(" ").map { it.toLong() }
+    val (a, b) = readLine().split(" ").map { it.toLong() }
     println(c(b) - c(a - 1))
 }
