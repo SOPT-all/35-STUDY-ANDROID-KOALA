@@ -1,6 +1,6 @@
 fun main() {
-    repeat(readLine().toInt()) {
-        val n = readLine().toInt()
+    repeat(readLine()!!.toInt()) {
+        val n = readLine()!!.toInt()
         val s = Array(2) { readLine()!!.split(" ").map { it.toInt() }.toIntArray() }
         if (n == 1) println(maxOf(s[0][0], s[1][0]))
         else {
