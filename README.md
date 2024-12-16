@@ -69,7 +69,7 @@
 | Sliver |  | [백준: 한 줄로 서기]       | (<a href = "https://www.acmicpc.net/problem/1138">🔗<a/>) |
 | Gold   |  | [백준: 파티]     | (<a href = "https://www.acmicpc.net/problem/1238">🔗<a/>) |
 
-### Week 06 (~24.12.06)
+### Week 06 (~24.12.13)
 
 | 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
 |--------------------|---------------------------|-----------------|---------|
@@ -78,3 +78,14 @@
 | Lv.3   | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 파괴되지 않은 건물] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92344">🔗<a/>) |
 | Sliver |  | [백준: 스티커] | (<a href = "https://www.acmicpc.net/problem/9465">🔗<a/>) |
 | Gold   |  | [백준: 1의 개수 세기]     | (<a href = "https://www.acmicpc.net/problem/9527">🔗<a/>) |
+
+
+### Week 07 (~24.12.22)
+
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1 | 2023 KAKAO BLIND RECRUITMENT | [프로그래머스: 개인정보 수집 유효기간] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/150370">🔗<a/>) |
+| Lv.2 | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 괄호 변환] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60058">🔗<a/>) |
+| Lv.3 | 2021 카카오 채용연계형 인턴십 | [프로그래머스: 표 편집] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/81303">🔗<a/>) |
+| Silver |  | [백준: 주식] | (<a href = "https://www.acmicpc.net/problem/11501">🔗<a/>) |
+| Gold |  | [백준: 줄세우기] | (<a href = "https://www.acmicpc.net/problem/11501">🔗<a/>) |
