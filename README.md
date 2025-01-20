@@ -96,7 +96,6 @@
 |--------------------|---------------------------|-----------------|---------|
 | Lv.1 | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 신고 결과 받기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92334">🔗<a/>) |
 | Lv.2 | 2020 카카오 인턴십 | [프로그래머스: 수식 최대화] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/67257">🔗<a/>) |
-| Lv.3 | 2019 KAKAO BLIND RECRUITMENT | [프로그래머스: 	
-길 찾기 게임] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42892">🔗<a/>) |
+| Lv.3 | 2019 KAKAO BLIND RECRUITMENT | [프로그래머스: 길 찾기 게임] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42892">🔗<a/>) |
 | Silver |  | [백준: 임스와 함께하는 미니게임] | (<a href = "https://www.acmicpc.net/problem/25757">🔗<a/>) |
 | Gold |  | [백준: 합분해] | (<a href = "https://www.acmicpc.net/problem/2225">🔗<a/>) |
