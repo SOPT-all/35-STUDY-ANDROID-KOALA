@@ -88,6 +88,7 @@
 | Lv.2 | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 괄호 변환] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60058">🔗<a/>) |
 | Lv.3 | 2021 카카오 채용연계형 인턴십 | [프로그래머스: 표 편집] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/81303">🔗<a/>) |
 | Silver |  | [백준: 주식] | (<a href = "https://www.acmicpc.net/problem/7570">🔗<a/>) |
+| Gold |  | [백준: 줄세우기] | (<a href = "https://www.acmicpc.net/problem/11501">🔗<a/>) |
 
 ### Week 08 (~25.01.26)
 
