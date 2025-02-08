@@ -99,3 +99,13 @@
 | Lv.3 | 2019 KAKAO BLIND RECRUITMENT | [프로그래머스: 길 찾기 게임] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42892">🔗<a/>) |
 | Silver |  | [백준: 임스와 함께하는 미니게임] | (<a href = "https://www.acmicpc.net/problem/25757">🔗<a/>) |
 | Gold |  | [백준: 합분해] | (<a href = "https://www.acmicpc.net/problem/2225">🔗<a/>) |
+
+### Week 09 (~25.02.16)
+
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1 | 2024 KAKAO WINTER INTERNSHIP | [프로그래머스: 가장 많이 받은 선물] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/258712">🔗<a/>) |
+| Lv.2 | 2021 카카오 채용연계형 인턴십 | [프로그래머스: 거리두기 확인하기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/81302">🔗<a/>) |
+| Lv.3 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 합승 택시 요금] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72413">🔗<a/>) |
+| Silver |  | [백준: 촌수계산] | (<a href = "https://www.acmicpc.net/problem/2644">🔗<a/>) |
+| Gold |  | [백준: 암호 만들기] | (<a href = "https://www.acmicpc.net/problem/1759">🔗<a/>) |
