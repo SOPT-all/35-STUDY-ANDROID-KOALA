@@ -107,5 +107,5 @@
 | Lv.1 | 2024 KAKAO WINTER INTERNSHIP | [프로그래머스: 가장 많이 받은 선물] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/258712">🔗<a/>) |
 | Lv.2 | 2021 카카오 채용연계형 인턴십 | [프로그래머스: 거리두기 확인하기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/81302">🔗<a/>) |
 | Lv.3 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 합승 택시 요금] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72413">🔗<a/>) |
-| Silver |  | [백준: 촌수계산] | (<a href = "https://www.acmicpc.net/problem/2644">🔗<a/>) |
+| Silver |  | [백준: 상자넣기] | (<a href = "https://www.acmicpc.net/problem/1965">🔗<a/>) |
 | Gold |  | [백준: 암호 만들기] | (<a href = "https://www.acmicpc.net/problem/1759">🔗<a/>) |
