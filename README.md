@@ -109,3 +109,12 @@
 | Lv.3 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 합승 택시 요금] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72413">🔗<a/>) |
 | Silver |  | [백준: 상자넣기] | (<a href = "https://www.acmicpc.net/problem/1965">🔗<a/>) |
 | Gold |  | [백준: 암호 만들기] | (<a href = "https://www.acmicpc.net/problem/1759">🔗<a/>) |
+
+### Week 10 (~25.02.23)
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.2 | 2020 KAKAO BLIND RECRUITMENT | [프로그래머스: 문자열 압축] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60057">🔗<a/>) |
+| Lv.2 | 2019 KAKAO BLIND RECRUITMENT | [프로그래머스: 후보키] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42890">🔗<a/>) |
+| Lv.3 | 2022 KAKAO BLIND RECRUITMENT | [프로그래머스: 양과 늑대] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/92343">🔗<a/>) |
+| Silver |  | [백준: 그림] | (<a href = "https://www.acmicpc.net/problem/1926">🔗<a/>) |
+| Gold |  | [백준: 오큰수] | (<a href = "https://www.acmicpc.net/problem/17298">🔗<a/>) |
