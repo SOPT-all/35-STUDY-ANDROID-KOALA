@@ -119,7 +119,7 @@
 | Silver |  | [백준: 그림] | (<a href = "https://www.acmicpc.net/problem/1926">🔗<a/>) |
 | Gold |  | [백준: 오큰수] | (<a href = "https://www.acmicpc.net/problem/17298">🔗<a/>) |
 
-### Week 11 (~25.03.02)
+### Week 11 (~25.03.09)
 | 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
 |--------------------|---------------------------|-----------------|---------|
 | Lv.2 | 2023 KAKAO BLIND RECRUITMENT | [프로그래머스: 이모티콘 할인행사] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/150368">🔗<a/>) |
@@ -127,3 +127,12 @@
 | Lv.3 | 2020 KAKAO BLIND RECRUITMENT | [프로그래머스: 기둥과 보 설치] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/60061">🔗<a/>) |
 | Silver |  | [백준: 로또] | (<a href = "https://www.acmicpc.net/problem/6603">🔗<a/>) |
 | Gold |  | [백준: 말이 되고픈 원숭이] | (<a href = "https://www.acmicpc.net/problem/1600">🔗<a/>) |
+
+### Week 12 (~25.03.16)
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.2 | 2023 KAKAO BLIND RECRUITMENT | [프로그래머스: 택배 배달과 수거하기] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/150369">🔗<a/>) |
+| Lv.2 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 순위 검색] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72412">🔗<a/>) |
+| Lv.3 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 광고 삽입] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72414">🔗<a/>) |
+| Silver |  | [백준: 구간 합 구하기 5] | (<a href = "https://www.acmicpc.net/problem/11660">🔗<a/>) |
+| Gold |  | [백준: 게리맨더링] | (<a href = "https://www.acmicpc.net/problem/17471">🔗<a/>) |
