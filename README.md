@@ -136,3 +136,12 @@
 | Lv.3 | 2021 KAKAO BLIND RECRUITMENT | [프로그래머스: 광고 삽입] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/72414">🔗<a/>) |
 | Silver |  | [백준: 구간 합 구하기 5] | (<a href = "https://www.acmicpc.net/problem/11660">🔗<a/>) |
 | Gold |  | [백준: 게리맨더링] | (<a href = "https://www.acmicpc.net/problem/17471">🔗<a/>) |
+
+### Week 13 (~25.03.23)
+| 난이도               | 카테고리                    | 제목              | 문제 풀이 링크|
+|--------------------|---------------------------|-----------------|---------|
+| Lv.1 |  | [프로그래머스: 최소직사각형] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/86491">🔗<a/>) |
+| Lv.2 |  | [프로그래머스: 가장 큰 수] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/42746">🔗<a/>) |
+| Lv.3 |  | [프로그래머스: 단어 변환] | (<a href = "https://school.programmers.co.kr/learn/courses/30/lessons/43163">🔗<a/>) |
+| Silver |  | [백준: 연산자 끼워넣기] | (<a href = "https://www.acmicpc.net/problem/14888">🔗<a/>) |
+| Gold |  | [백준: 구슬 탈출 2] | (<a href = "https://www.acmicpc.net/problem/13460">🔗<a/>) |
